@@ -2,7 +2,8 @@
 
 ![beach house](image/beachhouse.png)
 
-**The market today**
+## The market today
+
 If you noticed in recent years, there's been an increase in online platforms whose job is to link buyers and sellers.  
 These intermediary companies do not own any inventory, but only seek to be the middle-man and profit from the commisions.  
 E-bay and Taobao are famous e-commerce platforms are great examples.  
