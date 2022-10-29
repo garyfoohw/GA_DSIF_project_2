@@ -1,6 +1,6 @@
 # Buying a house and how to not get ripped off
 
-<img src="https://media.architecturaldigest.com/photos/59de7f8bf7610e67d7f169c2/master/w_2580%2Cc_limit/1%2520BCA%2520IDA%25202016%2520-%25204510.jpg" height="800"/ >
+![beach house](image/beachhouse.png)
 
 **The market today**
 If you noticed in recent years, there's been an increase in online platforms whose job is to link buyers and sellers.  
